@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-threads-of-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tangled Threads Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-threads-of-us/) |
+| **Get License** | [License this song: Tangled Threads Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-threads-of-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3008)
 
 ---
 
