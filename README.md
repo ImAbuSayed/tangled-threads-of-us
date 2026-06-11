@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-threads-of-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tangled Threads Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-threads-of-us/) |
+| **Get License** | [Music Rights & Licensing for Tangled Threads Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-threads-of-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There is a fire burning low and steady in the dark
+> Every time you look at me, you leave a little mark
+> I feel the gentle pull that draws me close to you
+> Painting every shadow with a color that is new
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
